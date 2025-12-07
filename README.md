@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">⚡ whyuxD ⚡</h1>
 
-<!--
-**whyuxD-wx/whyuxD-wx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Code. Create. Break. Fix. Repeat.</b><br>
+  Developer | Learner | Dreamer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFD1&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+whyuxD;I+love+code+and+automation;Always+learning+new+things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👤 About Me
+
+```js
+const whyuxD = {
+  name: "whyuxD",
+  role: "JavaScript Developer",
+  hobby: ["Ngoding", "Eksperimen", "Ngulik Bug", "Deploy Project"],
+  mindset: "Fail → Learn → Improve → Repeat",
+  status: "always building something ⚙️"
+}
