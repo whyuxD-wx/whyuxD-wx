@@ -1,13 +1,26 @@
 <h1 align="center">⚡ whyuxD ⚡</h1>
 
 <p align="center">
-  <b>Code. Create. Break. Fix. Repeat.</b><br>
-  Developer | Learner | Dreamer
+  <b>Developer • Builder • Dreamer</b><br>
+  JavaScript Enthusiast | Automation Lover | Tech Explorer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFD1&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+whyuxD;I+love+code+and+automation;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFD1&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+whyuxD;Backend+Developer;Always+learning+new+things" />
 </p>
+
+---
+
+## 🧬 Biodata
+
+| Field        | Info |
+|--------------|------|
+| Nickname     | **whyuxD** |
+| Role         | Developer |
+| Skill Level  | Learning by Doing |
+| Interest     | Web, Bot, API, Automation |
+| Lifestyle    | Debug & Coffee ☕ |
+| Motto        | *"Fail fast, learn faster."* |
 
 ---
 
@@ -16,8 +29,9 @@
 ```js
 const whyuxD = {
   name: "whyuxD",
-  role: "JavaScript Developer",
-  hobby: ["Ngoding", "Eksperimen", "Ngulik Bug", "Deploy Project"],
-  mindset: "Fail → Learn → Improve → Repeat",
-  status: "always building something ⚙️"
+  location: "Indonesia",
+  job: "Self-Learned Developer",
+  interest: ["Backend", "Automation", "Scraping", "API"],
+  learning: ["NodeJS", "Express", "Security"],
+  motto: "code • break • fix • repeat"
 }
