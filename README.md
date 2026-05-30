@@ -18,13 +18,12 @@
 
 </div>
 
-- 👤 Name: **whyuxD**  
-- 🎯 Role: Web Developer & bot developer  
-- 🌏 Location: Indonesia 🇮🇩  
-- 🎓 Skills: just Beginner 
-- 💡 Motto: *"Transform ideas into code, problems into solutions, and challenges into growth"*  
-- 🛠 Mission: *"Build tools that make life easier and code that inspires others"*
-
+-  Name: **whyuxD**  
+-  Role: Web Developer & bot developer  
+-  Location: Indonesia 🇮🇩  
+-  Skills: just Beginner
+-  Ideals: *live better*
+-  My bini🤭: ...
 
 <div align="center">
 
