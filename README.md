@@ -28,10 +28,10 @@
 <div align="center">
 
 ### Connect With 
-<a href="https://t.me/whyuxD" target="_blank">
+<a href="https://t.me/w7yuxD" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="Telegram" />
 </a>
-<a href="https://wa.me/087864807845
+<a href="https://wa.me/6287864807845
 target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-29D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="WhatsApp" />
 </a>
